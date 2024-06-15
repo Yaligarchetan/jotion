@@ -27,7 +27,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/suprith-badiger/Jotion.git
+git clone https://github.com/Yaligarchetan/jotion.git
 ```
 
 ### Install packages
